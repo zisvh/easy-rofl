@@ -31,5 +31,5 @@ Now let's finally get to launching our script !
 
 Whille still in your folder using **Powershell**, type `node index.js`. This should start the script and give you back a link.
 
-If you need any help with anything, contact me on Twitter: https://twitter.com/arieslol_
+If you need any help with anything, contact me on Twitter: [Aries](https://twitter.com/arieslol_)
 
